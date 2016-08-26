@@ -1,0 +1,14 @@
+[
+	{
+		"Codigo":"ISC01",
+		"Nombres":"Tania",
+		"Apellidos":"Rivas",
+		"Nota":"10"
+	},
+	{
+		"Codigo":"ISC02",
+		"Nombres":"Carolina",
+		"Apellidos":"Landaverde",
+		"Nota":"8"
+	}
+]
